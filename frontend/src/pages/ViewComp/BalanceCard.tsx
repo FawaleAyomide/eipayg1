@@ -1,5 +1,5 @@
 import { useState } from 'react';
-import { PenSquareIcon, PlusIcon } from 'lucide-react';
+import { PlusIcon } from 'lucide-react';
 import Pencil from "../../Img/Pencil.svg";
 import AddUnitModal from './AddUnitModal';
 
